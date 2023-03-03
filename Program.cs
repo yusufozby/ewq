@@ -1,12 +1,16 @@
-﻿using System;
+﻿
 
-namespace HelloWorld;
 
-class Program {
-
-    static void Main(String[] args) {
-        Console.WriteLine("Enter a course name");
-        string courseName = Console.ReadLine();
-        Console.WriteLine("Welcome to "+courseName);
-    }
+abstract class A {
+    public abstract string ewq();
 }
+class B : A {
+    public override string ewq()
+  {
+      return "";
+  }
+
+
+}
+
+
