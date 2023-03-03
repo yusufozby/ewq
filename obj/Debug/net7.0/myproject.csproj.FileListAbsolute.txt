@@ -1,0 +1,15 @@
+/home/yusufozbay/Masaüstü/dotnet/myproject/bin/Debug/net7.0/myproject
+/home/yusufozbay/Masaüstü/dotnet/myproject/bin/Debug/net7.0/myproject.deps.json
+/home/yusufozbay/Masaüstü/dotnet/myproject/bin/Debug/net7.0/myproject.runtimeconfig.json
+/home/yusufozbay/Masaüstü/dotnet/myproject/bin/Debug/net7.0/myproject.dll
+/home/yusufozbay/Masaüstü/dotnet/myproject/bin/Debug/net7.0/myproject.pdb
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.csproj.AssemblyReference.cache
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.AssemblyInfoInputs.cache
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.AssemblyInfo.cs
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.csproj.CoreCompileInputs.cache
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.dll
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/refint/myproject.dll
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.pdb
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/myproject.genruntimeconfig.cache
+/home/yusufozbay/Masaüstü/dotnet/myproject/obj/Debug/net7.0/ref/myproject.dll
